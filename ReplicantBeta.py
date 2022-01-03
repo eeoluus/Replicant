@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 import sys
 import tkinter as tk
 
@@ -172,4 +166,3 @@ if __name__ == '__main__':
         
     with StandardOutput(log):
         root.mainloop()
-
